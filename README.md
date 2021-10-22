@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning about Web3, NFT, Solidity
 - 💞️ I’m looking to collaborate on customer's idea & team-spirit.
 - 📫 How to reach me ...
-jamesbrown0821@gmail.com
+jamesbrown0821@protonmail.com
 
 <!---
 jamesbrown0821/jamesbrown0821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
